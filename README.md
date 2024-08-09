@@ -1,6 +1,16 @@
 # Descrição Geral
 
 Este site permite que os vendedores listem seus produtos e que os compradores naveguem, adicionem itens ao carrinho e façam compras. Além disso, o site suporta avaliações de produtos e interação entre compradores e vendedores.
+Serão utilizadas: JavaScript, HTML e CSS; Juntamente com o  FireBase (banco de dados do Google).
+
+**Full-Stack**
+Victor e Matheus.
+
+**Back-End**
+Arthur.
+
+**Front-End**
+Andrey, Davi e Guilherme.
 
 ## Histórias de Usuário
 
