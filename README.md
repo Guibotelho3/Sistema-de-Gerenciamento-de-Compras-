@@ -1,2 +1,68 @@
-# Sistema-de-Gerenciamento-de-Compras-
-Trabalho Prático da disciplina Engenharia de Software 1 
+# Descrição Geral
+
+Este site permite que os vendedores listem seus produtos e que os compradores naveguem, adicionem itens ao carrinho e façam compras. Além disso, o site suporta avaliações de produtos e interação entre compradores e vendedores.
+
+## Histórias de Usuário
+
+1. **Registro de Usuário**
+   - Como usuário, quero poder me registrar no site com meu e-mail e uma senha para acessar minha conta e comprar produtos.
+
+2. **Login de Usuário**
+   - Como usuário, quero poder fazer login com meu e-mail e senha para acessar minha conta e ver minhas compras anteriores.
+
+3. **Navegação de Produtos**
+   - Como visitante, quero poder navegar por categorias de produtos artesanais para encontrar itens do meu interesse.
+
+4. **Detalhes do Produto**
+   - Como visitante, quero poder clicar em um produto para ver mais detalhes, incluindo descrições, fotos e avaliações.
+
+5. **Adicionar ao Carrinho**
+   - Como usuário, quero poder adicionar produtos ao meu carrinho de compras para finalizar a compra mais tarde.
+
+6. **Finalizar Compra**
+   - Como usuário, quero poder revisar os itens no meu carrinho e proceder para o pagamento para comprar os produtos.
+
+7. **Avaliação de Produtos**
+   - Como comprador, quero poder deixar uma avaliação e comentário sobre os produtos que comprei para ajudar outros usuários a decidir suas compras.
+
+8. **Perfil de Usuário**
+   - Como usuário, quero poder ver e editar minhas informações de perfil, incluindo nome, endereço e preferências.
+
+9. **Histórico de Compras**
+   - Como usuário, quero poder ver um histórico de todas as minhas compras anteriores para referência futura.
+
+10. **Notificações**
+    - Como usuário, quero receber notificações sobre o status do meu pedido e outras atualizações importantes.
+
+## CRUDs
+
+1. **CRUD de Produtos**
+   - *Create:* Adicionar novos produtos ao banco de dados.
+   - *Read:* Listar produtos disponíveis.
+   - *Update:* Atualizar informações do produto.
+   - *Delete:* Remover produtos do banco de dados.
+
+2. **CRUD de Usuários**
+   - *Create:* Registrar novos usuários.
+   - *Read:* Listar informações do usuário.
+   - *Update:* Atualizar informações do perfil do usuário.
+   - *Delete:* Deletar contas de usuário.
+
+3. **CRUD de Categorias**
+   - *Create:* Adicionar novas categorias de produtos.
+   - *Read:* Listar todas as categorias disponíveis.
+   - *Update:* Atualizar nomes ou descrições das categorias.
+   - *Delete:* Remover categorias não mais necessárias.
+
+4. **CRUD de Carrinho de Compras**
+   - *Create:* Adicionar itens ao carrinho.
+   - *Read:* Visualizar itens no carrinho de compras.
+   - *Update:* Atualizar quantidades ou remover itens do carrinho.
+   - *Delete:* Limpar o carrinho de compras.
+
+5. **CRUD de Avaliações**
+   - *Create:* Adicionar novas avaliações de produtos.
+   - *Read:* Ler avaliações deixadas por outros usuários.
+   - *Update:* Atualizar conteúdo de avaliações (por exemplo, em caso de erro).
+   - *Delete:* Remover avaliações inapropriadas ou solicitadas pelo usuário.
+ 
