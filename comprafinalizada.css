@@ -1,0 +1,48 @@
+.compra-finalizada-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #f5f5f5;
+  text-align: center;
+  padding: 20px;
+}
+
+.compra-finalizada-content {
+  background-color: white;
+  padding: 40px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  max-width: 500px;
+  width: 100%;
+}
+
+.check-emoji {
+  font-size: 50px;
+  margin-bottom: 20px;
+}
+
+.compra-finalizada-content h1 {
+  color: #512da8;
+  margin-bottom: 20px;
+}
+
+.compra-finalizada-content p {
+  color: #333;
+  margin-bottom: 30px;
+}
+
+.voltar-button {
+  background-color: #512da8;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.voltar-button:hover {
+  background-color: #5c6bc0;
+}
