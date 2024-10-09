@@ -1,7 +1,7 @@
 # Descrição Geral
 
 Este site permite que os vendedores listem seus produtos e que os compradores naveguem, adicionem itens ao carrinho e façam compras. Além disso, o site suporta avaliações de produtos e interação entre compradores e vendedores.
-Serão utilizadas: JavaScript, HTML e CSS; Juntamente com o  FireBase (banco de dados do Google).
+Serão utilizadas: JavaScript, React.Js e CSS; Juntamente com o  FireBase (banco de dados do Google).
 
 **Full-Stack**
 Victor e Matheus.
@@ -36,13 +36,13 @@ Andrey, Davi e Guilherme.
    - Como comprador, quero poder deixar uma avaliação e comentário sobre os produtos que comprei para ajudar outros usuários a decidir suas compras.
 
 8. **Perfil de Usuário**
-   - Como usuário, quero poder ver e editar minhas informações de perfil, incluindo nome, endereço e preferências.
+   - Como usuário, quero poder acompanhar o status do meu pedido, para saber se ele foi aprovado ou não.
 
-9. **Histórico de Compras**
+9. **Acompanhamento de Pedido**
    - Como usuário, quero poder ver um histórico de todas as minhas compras anteriores para referência futura.
 
-10. **Notificações**
-    - Como usuário, quero receber notificações sobre o status do meu pedido e outras atualizações importantes.
+10. **Sobre**
+    - Como usuário, quero poder acessar a seção "Sobre" da loja, para conhecer mais sobre a história, os valores, a missão e a equipe da empresa.
 
 ## CRUDs
 
