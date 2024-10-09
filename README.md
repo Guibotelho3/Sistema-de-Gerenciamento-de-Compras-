@@ -36,10 +36,10 @@ Andrey, Davi e Guilherme.
    - Como comprador, quero poder deixar uma avaliação e comentário sobre os produtos que comprei para ajudar outros usuários a decidir suas compras.
 
 8. **Perfil de Usuário**
-   - Como usuário, quero poder acompanhar o status do meu pedido, para saber se ele foi aprovado ou não.
+   - Como usuário, quero poder acessar e gerenciar meu perfil de usuário.
 
 9. **Acompanhamento de Pedido**
-   - Como usuário, quero poder ver um histórico de todas as minhas compras anteriores para referência futura.
+   - Como usuário, quero poder acompanhar o status do meu pedido, para saber se ele foi aprovado ou não.
 
 10. **Sobre**
     - Como usuário, quero poder acessar a seção "Sobre" da loja, para conhecer mais sobre a história, os valores, a missão e a equipe da empresa.
